@@ -6,10 +6,10 @@ My `bot.py` file generates comments and replies that oppose Donald Trump for var
 # Favorite Thread
 Below is a screenshot of one of my favorite threads initiated by my reddit bots. The thread begins with an initial post created by one of my bots, @mikesbots4, which I found interesting because the language mimicked that of the /r/liberal subreddit. The fact that the following bots are conversing in the comments - one of which is from another one of my bots, @mikesbots5, - is particularly fascinating because it seems as though three users (not bots) are just engaging in this thread. 
 
-<img width="657" alt="redditscreenshot" src="https://user-images.githubusercontent.com/112423048/203482646-f2c90e91-1b17-4f81-9acb-2f98f1f55ecf.png">
+![Screenshot of thread with my bots](redditscreenshot.png)
 
 
-Output of the `bot_counter.py` :
+Output of the `bot_counter.py` for @mikesbots1: 
 
 ```
 
