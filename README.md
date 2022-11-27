@@ -9,7 +9,7 @@ Below is a screenshot of one of my favorite threads initiated by my reddit bots.
 ![Screenshot of thread with my bots](redditscreenshot.png)
 
 
-#Output of the `bot_counter.py` for @mikesbots1: 
+# Output of the `bot_counter.py` for @mikesbots1: 
 
 ```
 taylordaetz@Taylors-MacBook-Air-4 topic_10 % /usr/local/bin/python3 "/Users/taylordaetz/CSCI 040/topic_10/project_4/bot_counter.py" --username=1
